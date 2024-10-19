@@ -1,8 +1,0 @@
-#ifndef INC_ERA_SIMPLE_MODBUS_TINY_WIFI_HPP_
-#define INC_ERA_SIMPLE_MODBUS_TINY_WIFI_HPP_
-
-#define ERA_MODBUS
-
-#include <ERaSimpleTinyWiFi.hpp>
-
-#endif /* INC_ERA_SIMPLE_MODBUS_TINY_WIFI_HPP_ */

@@ -1,8 +1,0 @@
-#ifndef INC_ERA_SIMPLE_MODBUS_MULTI_HPP_
-#define INC_ERA_SIMPLE_MODBUS_MULTI_HPP_
-
-#define ERA_MODBUS
-
-#include <ERaSimpleMulti.hpp>
-
-#endif /* INC_ERA_SIMPLE_MODBUS_MULTI_HPP_ */
